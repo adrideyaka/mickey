@@ -5,7 +5,7 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           :title
-relative_permalinks: true
+relative_permalinks:  false
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
@@ -25,8 +25,8 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	 Adri Deyaka
+  url:            	 adrideyaka.github.io/mickey
   facebook:          username
   twitter:           username
   google_plus:       username
